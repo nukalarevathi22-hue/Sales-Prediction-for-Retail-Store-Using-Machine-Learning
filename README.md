@@ -1,0 +1,2 @@
+# Sales-Prediction-for-Retail-Store-Using-Machine-Learning
+The objective of this project is to build a machine learning model that predicts future retail sales using historical sales data. By analyzing factors such as promotions, holidays, store type, and seasonal trends, the model helps retailers forecast daily, weekly, and monthly sales to support inventory planning, staffing, and marketing decisions.
